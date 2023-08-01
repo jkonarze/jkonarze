@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jan. I started writing code in 2008 back in college. Since I like puzzles and love lego software engineering always felt like a fun tool to solve real world problems. I am a dual citizen, hence I am authorized to work both in the USA and EU. 
+My name is Jan. I started writing code in 2008 back in college. Since I like puzzles and love lego, software engineering always felt like a fun tool to solve real world problems. I am a dual citizen, hence I am authorized to work both in the USA and EU. 
 
 <!-- - 🔭 I’m currently working porting a ten year old PHP application to go/react world within gcp, specifically google app engine. Just got done with some work on micromobility solutions. Soon to start with the new company. -->
 <!-- - 🌱 I’m currently learning -->
