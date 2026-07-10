@@ -11,7 +11,7 @@
   - Distributed, event driven backends in Go
   - Platform and data migrations with no downtime and no data loss
   - Observability, reliability, and the operational side of systems
-  - Google Cloud Platform
+  - Google Cloud Platform & AWS
 
   **How I work**
   - Pick the highest impact problem first, even when it is the hard one
