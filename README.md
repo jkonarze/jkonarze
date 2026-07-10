@@ -1,15 +1,23 @@
-### Hi there! 👋
+ ### Jan Konarzewski
 
-I'm **Jan**, and I’ve been passionate about coding ever since I started in college back in 2008. 🧑‍💻 I love solving puzzles and building things (just like with LEGO!), which makes software engineering a perfect fit for me.
+  Staff backend engineer at Wolt (DoorDash). I work on distributed systems at scale:
+  event driven backends, large platform migrations, and the reliability work that keeps
+  them honest in production.
 
-I’m a dual citizen 🇺🇸🇪🇺, so I’m authorized to work in both the USA and the EU.
+  Most of my time goes to systems many teams depend on: getting the design right,
+  making the tradeoffs explicit, and keeping them boring to operate.
 
-💬 **Ask me about**:
-- Microservices
-- Event-driven designs
-- Golang
-- Google Cloud Platform (especially App Engine—seriously, it’s so good! Why don’t more people use it?)
+  **What I work on**
+  - Distributed, event driven backends in Go
+  - Platform and data migrations with no downtime and no data loss
+  - Observability, reliability, and the operational side of systems
+  - Google Cloud Platform
 
-📫 **How to reach me**: Feel free to send me an email or drop me a [LinkedIn message](https://www.linkedin.com/in/jan-konarzewski-54a75648/).
+  **How I work**
+  - Pick the highest impact problem first, even when it is the hard one
+  - Back decisions with data, not vibes
+  - Write things down and share them, so the work outlasts me
 
-⚡ **Fun fact**: I’m all about hands-on experience. I love traveling 🌍 and living in different places to form my own opinions. Also, as a former collegiate athlete 🏊‍♂️, I believe staying active is key to both physical and mental well-being.
+  Dual citizen 🇺🇸🇪🇺, authorized to work in the US and the EU.
+
+  📫 Reach me by email or on [LinkedIn](https://www.linkedin.com/in/jan-konarzewski-54a75648/)
